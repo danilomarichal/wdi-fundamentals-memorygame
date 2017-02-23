@@ -1,0 +1,67 @@
+h1{
+        color: rgb(2, 132, 130);
+	}
+h2{
+		color: #ffd700;
+	}
+.card{
+	height: 200px;
+	width: 150px;
+	border: 1px solid black;
+	background: yellow;
+	border-radius: 10px;
+	float:left;
+	margin: 8%;
+}
+#game-board{
+	height: 50%;
+	width:50%;
+	display: inline-block;
+}
+img{
+	width:22px;
+	border-radius: 10px 10px 12px 12px;
+}
+span{
+	font-size: 33px;
+	color:#ff0000;
+}
+h4{
+	color:black;
+}
+footer{
+	text-align: center;
+	background-color: #808080;
+}
+body{
+	text-align: center;
+}
+nav{
+	background-color: #808080;
+  }
+ a{
+ 	background-color: #ffbf00;
+ 	color:white;
+ 	padding:35px;
+ 	display:block;
+ 	float:left;
+ }
+ a:hover{
+ 	background-color: #ee5f3c;
+ }
+.clearfix:after{
+	visibility: hidden;
+        display: block;
+        content: " ";
+        clear: both;
+        height: 0;
+        font-size: 0;
+}
+.card > img{
+  width: 146px;
+  height:198px;
+  border-radius:10px;
+}
+
+
+
